@@ -1,0 +1,162 @@
+[
+    {
+        "name": "SEP7IMO DIA",
+        "released": "2017-03-10",
+        "tracks": 21,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d7fb50201c2555c82f43fd27",
+            "width": 640
+        }
+    },
+    {
+        "name": "Gira Me Ver\u00e1s Volver",
+        "released": "2008-07-14",
+        "tracks": 14,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273219643d9e55befe5809ababd",
+            "width": 640
+        }
+    },
+    {
+        "name": "Gira Me Ver\u00e1s Volver",
+        "released": "2008-07-14",
+        "tracks": 14,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27352cd84d57eb20d5e477a94a9",
+            "width": 640
+        }
+    },
+    {
+        "name": "El Ultimo Concierto B (Remastered)",
+        "released": "1997-10-09",
+        "tracks": 11,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736901d0a51bac2358eaec876d",
+            "width": 640
+        }
+    },
+    {
+        "name": "El Ultimo Concierto A (Remastered)",
+        "released": "1997-10-09",
+        "tracks": 11,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27343bfec39ca9773a626102604",
+            "width": 640
+        }
+    },
+    {
+        "name": "Comfort Y Musica Para Volar",
+        "released": "1996-09-01",
+        "tracks": 11,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733875f29a2a8234ac7ef2706a",
+            "width": 640
+        }
+    },
+    {
+        "name": "Sue\u00f1o Stereo (Remastered)",
+        "released": "1995-10-09",
+        "tracks": 12,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b50bb73f2ef9047afa0644a4",
+            "width": 640
+        }
+    },
+    {
+        "name": "Dynamo (Remastered)",
+        "released": "1992-10-09",
+        "tracks": 12,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b755f1b1b4410d404fe21167",
+            "width": 640
+        }
+    },
+    {
+        "name": "Rex Mix (Remastered)",
+        "released": "1991-10-09",
+        "tracks": 7,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36ccf76605b4381d022f502",
+            "width": 640
+        }
+    },
+    {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "released": "1990-10-09",
+        "tracks": 10,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c451ed28353639e79b4d97d9",
+            "width": 640
+        }
+    },
+    {
+        "name": "Doble Vida (Remastered)",
+        "released": "1988-10-09",
+        "tracks": 9,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27382cf3a9e2e2b6b1b3f994d38",
+            "width": 640
+        }
+    },
+    {
+        "name": "Zona de Promesas (Mixes 1984 - 1993)",
+        "released": "1988",
+        "tracks": 10,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27342180f84b68db3c86461087e",
+            "width": 640
+        }
+    },
+    {
+        "name": "Ruido Blanco (Remastered)",
+        "released": "1987-10-09",
+        "tracks": 9,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27361a2b73032226d3de6b65302",
+            "width": 640
+        }
+    },
+    {
+        "name": "Signos (Remastered)",
+        "released": "1986-10-09",
+        "tracks": 8,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a6f5598c41e77ae78cab725",
+            "width": 640
+        }
+    },
+    {
+        "name": "Nada Personal (Remastered)",
+        "released": "1985-10-09",
+        "tracks": 10,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e28947f6ad2f100af9c1965a",
+            "width": 640
+        }
+    },
+    {
+        "name": "Soda Stereo (Remastered)",
+        "released": "1984-02-06",
+        "tracks": 11,
+        "cover": {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738fd9b16eb6bdd20c95717258",
+            "width": 640
+        }
+    }
+]
