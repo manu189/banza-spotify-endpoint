@@ -55,5 +55,5 @@ def read_band(q: str = None):
     # return JSONResponse(content=jsonable_encoder(spotify.get_reduce_albums(spotify.get_albums(spotify.get_band_id(q)))))
     return spotify.get_reduce_albums(spotify.get_albums(spotify.get_band_id(q)))
 
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8080)
+# if __name__ == "__main__":
+#     uvicorn.run(app, host="0.0.0.0", port=8080)
